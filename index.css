@@ -1,0 +1,22 @@
+#box{
+    height:50vh;
+    width:50vh;
+    border-style: solid;
+    padding-top: 25vh;
+}
+body{
+    padding-top: 5vh;
+    background-image: linear-gradient(rgb(187, 187, 245),rgb(247, 213, 219));
+}
+#Maths{
+    height: 10vh;
+    width: 40vh;
+    font-size: 5vh;
+    background-color:rgb(218, 103, 90);
+}
+#Fun{
+    height: 10vh;
+    width: 40vh;
+    font-size: 5vh;
+    background-color:rgb(218, 103, 90);
+}
