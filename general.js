@@ -220,7 +220,7 @@ if(res==answer){
 else{
     document.getElementById("answerbox"+ choice).style.backgroundColor="red";
     localStorage.setItem("scoree",score);
-    window.location.href="Tryagaingeneral.html";
+    window.location.href="tryagaingeneral.html";
   }
 }
 function tryagain(){
